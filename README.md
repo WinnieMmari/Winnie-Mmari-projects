@@ -1,11 +1,12 @@
-Towards an urban water balance twin
+#Towards an urban water balance twin
 
-Problem Statement:
+##Problem Statement:
 
-Project overview:
+###Project overview:
 
 As London grows, its water balance is increasingly disrupted by urbanization and climate change, leading to degraded groundwater quality and fluctuating water levels. These changes not only threaten the city's water supply but also incur substantial costs in water treatment and penalties for pollution incidents.
-Core Features:
+
+###Core Features:
 
   1.Predictive Analytics: Utilize historical data and real-time inputs to predict changes in groundwater levels.
   
@@ -16,7 +17,7 @@ Core Features:
   4.Environmental Compliance: Help Thames Water adhere to environmental regulations and prevent potential fines.
 
   
-Data:
+###Data:
 
 To simulate the urban water balance, we employed a comprehensive data analysis approach. The data collection process began by identifying essential features and potential sources, including websites, databases, and APIs, with a specific focus on the Hydrology Data Explorer API, which provided London city data in CSV format. The acquired dataset encompasses rainfall data, water quality, river levels, flow, groundwater, land use, evapotranspiration, and surface runoff.
 
@@ -29,7 +30,7 @@ To gain a deeper understanding of the interactions between groundwater levels an
 This rigorous data analysis and simulation methodology enabled us to create a robust framework for understanding and managing the complex interactions between groundwater levels and overall water quality in urban environments. The insights gained from this approach are crucial for developing effective strategies to enhance water safety and sustainability in the Thames River region and beyond. 
 
 
-The main features are:
+###The main features are:
 
 Rainfall
 
