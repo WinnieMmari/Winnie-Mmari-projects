@@ -1,3 +1,4 @@
+# Internship Project
 # Towards an urban water balance twin
 ## Problem Statement:
 ### Project overview:
@@ -48,7 +49,7 @@ Evapotranspiration
 
 
 
-
+# Unsupervised predict
 # The Movie Recommender Algorithm
 ## Introduction
 The film and entertainment industry has been growing and evolving vastly over the years, resulting in it being a multi-billion-dollar worth of an industry. From live theatre, to audioless black and white, to music and theatre, to television and big screens in cinema's, and now streaming. Film making and production has truly come a long way.
@@ -63,3 +64,6 @@ As Phantom AI, we were approached by Tesla to work on a project that will assist
 They want to create a software that can be installed in their vehicles that will serve as a streaming platform for movies and series. This is convenient for the driver when he/she switches to auto-pilot so that the car drives itself, and the driver can relax and catch-up on his/her favourite shows. Therefore, Tesla has approached us to:
 
 build, train, and test a machine learning model build an app using streamlit services deploy the model on the streamlit app to assess its effectiveness
+
+
+#
