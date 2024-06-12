@@ -1,7 +1,7 @@
 # Internship Project
 # Towards an urban water balance twin
 ## Problem Statement:
-### Project overview:
+### Overview:
 
 As London grows, its water balance is increasingly disrupted by urbanization and climate change, leading to degraded groundwater quality and fluctuating water levels. These changes not only threaten the city's water supply but also incur substantial costs in water treatment and penalties for pollution incidents.
 
@@ -51,7 +51,7 @@ Evapotranspiration
 
 # Unsupervised predict
 # The Movie Recommender Algorithm
-## Introduction
+## Overview
 The film and entertainment industry has been growing and evolving vastly over the years, resulting in it being a multi-billion-dollar worth of an industry. From live theatre, to audioless black and white, to music and theatre, to television and big screens in cinema's, and now streaming. Film making and production has truly come a long way.
 
 Streaming seems to be the big thing now, with organisations such as Amazon, Apple, Netflix, Disney, etc, taking advantage of the opportunities that have occured from this segment. These organisations have created apps where movies, series, documentaries, and other forms of entertainment in the film industry can be access anywhere, anytime, with only just a touch of a finger. These apps do not only give you access to the movies you want, but also learn more about which ones interests you best, and recommends them for you.
@@ -66,4 +66,20 @@ They want to create a software that can be installed in their vehicles that will
 build, train, and test a machine learning model build an app using streamlit services deploy the model on the streamlit app to assess its effectiveness
 
 
-#
+# Advanced classification Predict
+# Sentiment Analysis
+## Overview
+This project focuses on analysing public opinions about climate change expressed on Twitter. The dataset contains 43,943 tweets where each tweet is labelled into one of four classes:
+
+2 News: The tweet links to factual news about climate change. 1 Pro: The tweet supports the belief of man-made climate change. 0 Neutral: The tweet neither supports nor refutes the belief of man-made climate change. -1 Anti: The tweet does not believe in man-made climate change. The aim is to develop a machine learning model capable of categorising tweets into these classes, aiding environmentally conscious companies in aligning their products or services with public sentiments and values.
+
+## Problem Statement
+The main challenge involves training a model to interpret tweets and accurately assign them to one of the predefined classes based on their content. This classification task is vital for companies seeking to understand public sentiments regarding climate change.
+
+
+# Advanced Regression Predict
+# Spain Demand Shortfall
+## Overview
+The supply of electricity plays a large role in the livelihood of citizens in a country. Electricity, amongst other things, helps us stay connected, keep warm, and feed our families. Therefore there's a need to keep the lights on in order to maintain and improve the standard of living by investing in electricity infrastructure. However, in recent years, there has been evidence that the use of purely non-renewable sources is not sustainable.
+
+The government of Spain is considering an expansion of its renewable energy resource infrastructure investments. As such, they require information on the trends and patterns of the country's renewable sources and fossil fuel energy generation. For this very reason, the government of Spain has been tracking the different energy sources available within the country.
